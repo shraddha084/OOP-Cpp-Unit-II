@@ -12,9 +12,14 @@ This repository contains the programs completed as part of the **Object-Oriented
 - **Course Name:** B.Tech
 - **Unit:** Unit II
 
-##List of Experiments:-
-program1-
-Smart Agriculture sensor monitor.
+## List of Programs
+
+### Program 1 - Employee Salary System
+A company employs full-time employees, part-time employees, and interns. All employees share common information, but salary calculations vary by employment type.
+
+### Program 2 - Payment Gateway
+A payment gateway supports credit-card, UPI, net-banking, and wallet payments. All payment modes implement a common processing interface.
+
 
 ## Language Used
 - C++
